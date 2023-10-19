@@ -1,5 +1,5 @@
 <h1 align="center">Šarūnas</h1>
-<h2 align="center">A game/web developer</h2>
+<h2 align="center">Game/Web Developer</h2>
 <p align="center"> 📫 <a href="mailto:sarunyss@gmail.com">sarunyss@gmail.com</a>
 </p>
 
